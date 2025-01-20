@@ -42,9 +42,6 @@ This repository expands upon [Apple's ML-Depth Pro](https://github.com/apple/ml-
 
 ## Results
 
-### Image Demo
-![Example](examples/image_demo.jpg)
-
 ### Live Video
 [Live Video Demo](examples/live_feed_demo.mp4)
 
