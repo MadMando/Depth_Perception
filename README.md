@@ -11,7 +11,7 @@ This repository expands upon [Apple's ML-Depth Pro](https://github.com/apple/ml-
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.9
 - PyTorch
 - OpenCV
 - Additional libraries (see `requirements.txt`)
